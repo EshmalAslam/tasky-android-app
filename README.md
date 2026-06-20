@@ -1,4 +1,4 @@
-Tasky – Personal Task Manager (Android App)
+-Tasky – Personal Task Manager (Android App)
 
 Tasky is a modern, lightweight, and user-friendly Android task management application designed to help users efficiently organize and manage their daily activities with ease. It focuses on simplicity, productivity, and a clean user experience.
 
