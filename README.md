@@ -15,15 +15,15 @@
 
 ## Key Features
 
-* ** Modern UI/UX Design**
+* Modern UI/UX Design**
   * Clean, minimalist blue-themed interface with a visually appealing and intuitive dashboard.
-* ** Seamless Task Management**
+* Seamless Task Management**
   * Easily create, edit, and delete tasks with smooth, responsive, and intuitive user interactions.
-* ** Smart Prioritization**
+* Smart Prioritization**
   * Organize tasks by priority levels (**High**, **Medium**, **Low**) to improve focus and day-to-day productivity.
-* ** Offline Data Persistence**
+* Offline Data Persistence**
   * Uses `SharedPreferences` and the `GSON` library to store tasks locally, ensuring your data is safely retained even after an app restart.
-* ** User-Friendly Interface**
+* User-Friendly Interface**
   * Features custom rounded cards and intuitive buttons crafted for a seamless mobile experience.
 
 ---
