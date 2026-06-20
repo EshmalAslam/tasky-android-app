@@ -1,16 +1,41 @@
-Tasky - Your Personal Task Manager
-Tasky is a clean, modern, and user-friendly Android application designed to help users stay organized and manage their daily activities efficiently.
+Tasky – Personal Task Manager (Android App)
 
-Key Features:
-Elegant UI/UX: Featuring a minimalist blue-themed dashboard with centered alignment for a premium look.
-Task Management: Create, edit, and delete tasks with ease.
-Smart Prioritization: Organize tasks by priority (High, Medium, Low) to focus on what matters most.
-Persistent Data: Integrated with SharedPreferences and GSON to ensure your tasks remain saved even after closing the app or restarting your device.
-Stylish Components: Custom-designed rounded cards and intuitive action buttons for a seamless experience.
+Tasky is a modern, lightweight, and user-friendly Android task management application designed to help users efficiently organize and manage their daily activities with ease. It focuses on simplicity, productivity, and a clean user experience.
 
-Built With:
+Features
+Modern UI/UX Design:
+Clean, minimalist blue-themed interface with a visually appealing and intuitive dashboard.
+Task Management:
+Easily create, edit, and delete tasks with smooth and responsive interactions.
+Smart Prioritization:
+Organize tasks by priority levels (High, Medium, Low) to improve focus and productivity.
+Offline Data Persistence:
+Uses SharedPreferences and GSON to store tasks locally, ensuring data is retained even after app restart.
+User-Friendly Interface:
+Custom rounded cards and intuitive buttons for a seamless user experience.
+
+Built With
 Language: Java
-Interface: XML (Material Design)
-Data Storage: SharedPreferences & GSON library
+UI Design: XML (Material Design)
+Storage: SharedPreferences, GSON Library
 IDE: Android Studio
 
+Project Objective
+
+The objective of Tasky is to provide a simple yet effective productivity tool that helps users manage their daily tasks efficiently in an organized and distraction-free environment.
+
+Screenshots:
+
+<img width="1536" height="1024" alt="Tasky -  123233 Eshmal Aslam" src="https://github.com/user-attachments/assets/2d09f6e2-9355-41ac-a248-bd5fb83231ac" />
+
+Future Improvements
+Cloud sync (Firebase integration)
+Task reminders & notifications
+Calendar integration
+Dark mode support
+
+👨‍💻 Author
+
+Eshmal Aslam
+BS Computer Science
+Passionate about Android Development & AI-based systems
